@@ -1,4 +1,6 @@
 ##plot3 script
+#unzip file "household_power_comsumption.txt" to your working directory
+#run below script
 
 library(lubridate)
 library(dplyr)
